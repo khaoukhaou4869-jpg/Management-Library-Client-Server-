@@ -162,3 +162,5 @@ BOOK_LIST|1,Clean Code,Robert C. Martin,true;2,Effective Java,Joshua Bloch,true;
 - The server must be running before the client can load, add, borrow, return, or delete books.
 - The current socket protocol separates book fields with commas, so book titles or author names containing commas may not parse correctly.
 - Compiled `.class` files are present in the `out/` directories. For GitHub, it is usually better to ignore generated build output and commit only the source files and project configuration.
+
+![image](https://github.com/khaoukhaou4869-jpg/Management-Library-Client-Server-/blob/ca4a45c9f4670a56b0efccf9b1fecbbd4a0c832f/2026-06-30%20031801.png)
